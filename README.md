@@ -14,7 +14,7 @@ One-click install a new application using this starter kit through [Laravel Herd
 
 ### Via the Laravel Installer
 
-Create a new Laravel application using this starter kit through the official [Laravel Installer](https://laravel.com/docs/12.x/installation#installing-php):
+Create a new Laravel application using this starter kit through the official [Laravel Installer](https://laravel.com/docs/12.x/starter-kits#community-maintained-starter-kits):
 
 ```bash
 laravel new my-app --using=javdome/unstyled-react-jsx-starter-kit
@@ -34,4 +34,4 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 ## License
 
-The Laravel + Livewire starter kit is open-sourced software licensed under the MIT license.
+The Laravel + Unstyled React JSX Starter Kit is open-sourced software licensed under the MIT license.
